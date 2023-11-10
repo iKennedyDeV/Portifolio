@@ -179,6 +179,7 @@ figure{
     background-color: var(--cor-preto--);
     border-radius: 5px;
     border: 2px var(--cor-azul--) solid ;
+    color: var(--cor-branca--);
 }
 .container_contato{
    height: 77vh;
@@ -216,6 +217,7 @@ textarea{
     border-radius: 5px ;
     background-color: var(--cor-preto--);
     border: 2px var(--cor-azul--) solid ;
+    color: var(--cor-branca--);
     
 }
 .NUMERO{
